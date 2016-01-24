@@ -1,0 +1,14 @@
+{
+  "name": "weekdays",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "moment": "^2.11.1",
+    "react-forecast": "0.0.5",
+    "react-native": "^0.18.1",
+    "react-pure-render": "^1.0.2"
+  }
+}
